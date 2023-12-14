@@ -1,0 +1,61 @@
+/* p
+{
+    color: blue;
+}
+#one
+{
+    height: 100px;
+    width: 100px;
+    background-color: red;
+    border-radius: 50%;
+}
+#two
+{
+    height: 100px;
+    width: 100px;
+    background-color: yellow;
+    border-radius: 50%;
+}
+#three
+{
+    height: 100px;
+    width: 100px;
+    background-color: green;
+    border-radius: 50%;
+}
+#street
+{
+    height: 400px;
+    width: 120px;
+    background-color: black;
+    border-radius: ;
+} */
+*{
+    padding: 0px;
+    margin: 0px;
+    color: white;
+}
+#navbar
+{
+    height: 60px;
+    background-color: #0f1111;
+}
+button
+{
+    height: 25px;
+    background-color: #f08804;
+}
+#logo
+{
+    color: #f08804;
+    font-size: 25px;
+}
+input
+{
+    background-color: rgba(255, 0, 0,0.60);
+    height: 25px;
+}
+a{
+    margin-right: 300px;
+    text-decoration: none;
+}
